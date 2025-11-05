@@ -16,7 +16,7 @@
 		<jsp.version>2.3.1</jsp.version>
 		<javax.websocket.api>1.1</javax.websocket.api>
 		<jackson.version>2.9.1</jackson.version>
-		<sqlserver.version>7.4.1.jre8</sqlserver.version>
+		<sqlserver.version>11.1.0.jre8-preview</sqlserver.version>
 
 		<maven.war.plugin>3.2.0</maven.war.plugin>
 		<cargo.maven.plugin>1.6.4</cargo.maven.plugin>
